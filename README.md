@@ -3,25 +3,16 @@
 ## Indice de contenido
 
 ### 1 Parte: Fundamentos de Linux
+### 2 Parte: Configurar el sistema
+### 3 Parte: El sistema X Window
+### 4 Parte: Conectar con el proveedor de servicios de internet
+### 5 Parte: Administracion del sistema
 
-1. Introduccion al Shell
-- Que es un Shell?
-- Iniciar Sesion en linux
-* Crea una cuenta de usuario en la linea de comandos
-* Crea una cuenta de usuario en x11 con el comando usercfg
-* Cambiar la contrasena
-* Ejecutar comandos como operador root
-* Usar consolas virtuales
-- Cerrar sesion en Linux
-* Reiniciar Linux
-* Apagar Linux
-- Obtener ayuda
-* Obtener ayuda con el comando man
-* Obtener ayuda en X11 con el cliente xman
-* Obtener ayuda con el comando info
-* Obtener ayuda con el navegador de ayuda GNOME
-* Obtener ayuda por medio del navegador de Ayuda KDE
-* Obtener ayuda con el comando whatis
-* Obtener ayuda con el comando apropos
+- Aprenda a usar Linux independientemente de la distribucion que tenga
+- Aprenda a usar la linea de comandos para ejecutar Linux eficientemente
+- Evite problemas y riesgos a la hora de configurar el sistema Linux
+- Trabaje con el sistema X Window para configurar un administrador de ventanas GUI
+- Consiga que los detalles tecnicos de la administracion de sistemas Linux sea facilmente comprensible.
+- Configure su sistema Linux para que se ejecute en los distintos perifericos, como unidades zip y modems
+- Aprenda a programar Shell y a administrar el Kernel
 
-2.
